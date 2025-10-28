@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main() {
+
+
+scanf("%d", int N, lastDigit, remainingDigits;
+
+printf("Enter a number: ");
+ &N);
+
+
+
+lastDigit N % 10;
+
+ remaining Digits N/10;
+
+
+
+
+
+
+
+printf("Last digit: %d\n", lastDigit);
+
+printf("All digits except last digit: %d", r
+
+emainingDigits);
+
+
+
+ return 0;
+
+ }
